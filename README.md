@@ -1,1 +1,1 @@
-# shimane-dev
+# README

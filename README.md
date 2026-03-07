@@ -1,6 +1,6 @@
 # 解析と制御に関しての研究開発
 
-[github](https://github.com/shimane-dev/) / [doc](https://shimane-dev.github.io/)
+[shimane-dev (github)](https://github.com/shimane-dev/) / [shimane-dev (doc)](https://shimane-dev.github.io/)
 
 主に島根大学にて研究開発している制御と
 解析に関するソフトウエアリポジトリ
